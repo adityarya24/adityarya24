@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:09090b,55:10b981,100:34d399&section=header&text=Aditya%20Arya&fontSize=46&fontColor=e4e4e7&desc=AI%20Product%20%26%20Agent%20Builder%20%C2%B7%20MCP%20Servers%20%C2%B7%20Automation&descSize=16&descAlignY=75&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:09090b,55:10b981,100:34d399&section=header&text=Aditya%20Arya&fontSize=46&fontColor=e4e4e7&desc=AI%20Product%20and%20Agent%20Builder%20%C2%B7%20MCP%20Servers%20%C2%B7%20Automation&descSize=16&descAlignY=75&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="https://adityarya24.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-adityarya24.github.io-34d399?style=flat-square&labelColor=09090b"></a>
