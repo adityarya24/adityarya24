@@ -5,7 +5,7 @@
   <a href="https://askpanditji.co.in/"><img alt="Live product" src="https://img.shields.io/badge/Live%20Product-askpanditji.co.in-10b981?style=flat-square&labelColor=09090b"></a>
   <a href="https://www.linkedin.com/in/adityaryawork/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adityaryawork-0A66C2?style=flat-square&labelColor=09090b&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/adityarya_ai"><img alt="X" src="https://img.shields.io/badge/X-%40adityarya__ai-e4e4e7?style=flat-square&labelColor=09090b&logo=x&logoColor=white"></a>
-  <a href="mailto:adityaryawork@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adityaryawork-EA4335?style=flat-square&labelColor=09090b&logo=gmail&logoColor=white"></a>
+  <a href="mailto:adityaryawork@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adityaryawork%40gmail.com-EA4335?style=flat-square&labelColor=09090b&logo=gmail&logoColor=white"></a>
 </p>
 
 ## What I build
