@@ -16,10 +16,10 @@
 
 ## Featured work
 
-[![astro-skill](https://github-readme-stats.vercel.app/api/pin/?username=adityarya24&repo=astro-skill&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=c9d1d9)](https://github.com/adityarya24/astro-skill)
-[![mindsync-ai](https://github-readme-stats.vercel.app/api/pin/?username=adityarya24&repo=mindsync-ai&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=c9d1d9)](https://github.com/adityarya24/mindsync-ai)
-[![gws-marketing](https://github-readme-stats.vercel.app/api/pin/?username=adityarya24&repo=gws-marketing&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=c9d1d9)](https://github.com/adityarya24/gws-marketing)
-[![trading-mcp-server](https://github-readme-stats.vercel.app/api/pin/?username=adityarya24&repo=trading-mcp-server&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=c9d1d9)](https://github.com/adityarya24/trading-mcp-server)
+| | |
+|---|---|
+| <a href="https://github.com/adityarya24/astro-skill"><b>astro-skill</b></a> <img src="https://img.shields.io/github/stars/adityarya24/astro-skill?style=flat-square&color=10b981&label=%E2%98%85" alt="stars"> <img src="https://img.shields.io/github/languages/top/adityarya24/astro-skill?style=flat-square&labelColor=09090b" alt="lang"> <img src="https://img.shields.io/github/license/adityarya24/astro-skill?style=flat-square&labelColor=09090b" alt="license"><br><sub>Deterministic Vedic astrology engine, agent skill & MCP server — kundali, dasha, panchang, guna milan, PDF reports. No API keys.</sub> | <a href="https://github.com/adityarya24/mindsync-ai"><b>mindsync-ai</b></a> <img src="https://img.shields.io/github/stars/adityarya24/mindsync-ai?style=flat-square&color=10b981&label=%E2%98%85" alt="stars"> <img src="https://img.shields.io/github/languages/top/adityarya24/mindsync-ai?style=flat-square&labelColor=09090b" alt="lang"> <img src="https://img.shields.io/github/license/adityarya24/mindsync-ai?style=flat-square&labelColor=09090b" alt="license"><br><sub>Local-first MCP orchestration for coding agents — task routing, shared memory, conflict prevention, VPS sync. Live on PyPI.</sub> |
+| <a href="https://github.com/adityarya24/gws-marketing"><b>gws-marketing</b></a> <img src="https://img.shields.io/github/stars/adityarya24/gws-marketing?style=flat-square&color=10b981&label=%E2%98%85" alt="stars"> <img src="https://img.shields.io/github/languages/top/adityarya24/gws-marketing?style=flat-square&labelColor=09090b" alt="lang"> <img src="https://img.shields.io/github/license/adityarya24/gws-marketing?style=flat-square&labelColor=09090b" alt="license"><br><sub>15-tool MCP server for Google marketing data — Search Console, GA4, Gmail, Calendar, Drive. Scoped OAuth; the only write is a human-reviewed draft.</sub> | <a href="https://github.com/adityarya24/trading-mcp-server"><b>trading-mcp-server</b></a> <img src="https://img.shields.io/github/stars/adityarya24/trading-mcp-server?style=flat-square&color=10b981&label=%E2%98%85" alt="stars"> <img src="https://img.shields.io/github/languages/top/adityarya24/trading-mcp-server?style=flat-square&labelColor=09090b" alt="lang"> <img src="https://img.shields.io/github/license/adityarya24/trading-mcp-server?style=flat-square&labelColor=09090b" alt="license"><br><sub>MCP server for Indian markets — morning briefs, end-of-day reviews, trade journaling. Data & analytics only, no signals.</sub> |
 
 **Live product:** [askpanditji.co.in](https://askpanditji.co.in) — a D2C platform generating personalized 35+ page Vedic astrology reports, powered by my open-source astro-skill engine.
 
@@ -33,13 +33,33 @@
 
 ## GitHub stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityarya24&show_icons=true&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=adityarya24&hide_border=true&background=00000000&ring=34d399&fire=E67E22&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=34d399&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityarya24&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityarya24&theme=github" />
+    <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityarya24&theme=github_dark" width="99%" />
+  </picture>
 </p>
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarya24&layout=compact&hide_border=true&bg_color=00000000&title_color=34d399&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityarya24&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityarya24&theme=github" />
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityarya24&theme=github_dark" height="170" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityarya24&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityarya24&theme=github" />
+    <img alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityarya24&theme=github_dark" height="170" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityarya24&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityarya24&theme=github" />
+    <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityarya24&theme=github_dark" height="170" />
+  </picture>
+  <picture>
+    <img height="170" src="https://streak-stats.demolab.com?user=adityarya24&hide_border=true&background=00000000&ring=34d399&fire=E67E22&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=34d399&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+  </picture>
 </p>
 
 ### Contribution graph
