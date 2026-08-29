@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090b,55:10b981,100:34d399&section=header&text=Aditya%20Arya&fontSize=48&fontColor=e4e4e7&fontAlignY=42&desc=AI%20Product%20%26%20Agent%20Architect%20%7C%20MCP%20Ecosystems%20%7C%20Automation&descSize=16&descAlignY=64&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090b,55:10b981,100:34d399&section=header&text=Aditya%20Arya&fontSize=48&fontColor=e4e4e7&fontAlignY=42&desc=AI%20Product%20and%20Agent%20Architect%20%C2%B7%20MCP%20Ecosystems%20%C2%B7%20Automation&descSize=16&descAlignY=64&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=Building+Local-First+Multi-Agent+Orchestrators;Architecting+Production+MCP+(Model+Context+Protocol)+Servers;Automating+24%2F7+Autonomous+VPS+Agent+Fleets;Full-Stack+AI+Products+from+Inception+to+Scale" alt="Typing SVG" />
