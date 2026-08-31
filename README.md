@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <a href="https://adityarya24.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-adityarya24.github.io-34d399?style=flat-square&labelColor=09090b"></a>
+  <a href="https://adityarya.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-adityarya.dev-34d399?style=flat-square&labelColor=09090b"></a>
   <a href="https://askpanditji.co.in/"><img alt="Live Product" src="https://img.shields.io/badge/Live%20Product-askpanditji.co.in-10b981?style=flat-square&labelColor=09090b"></a>
   <a href="https://www.linkedin.com/in/adityaryawork/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adityaryawork-0A66C2?style=flat-square&labelColor=09090b&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/adityarya_ai"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-%40adityarya__ai-e4e4e7?style=flat-square&labelColor=09090b&logo=x&logoColor=white"></a>
@@ -115,6 +115,6 @@ Interested in building multi-agent systems, custom MCP servers, or autonomous wo
 - 📅 **Book a 1:1 Discussion**: [cal.com/adityarya24](https://cal.com/adityarya24/project-discussion)
 - 💼 **LinkedIn**: [linkedin.com/in/adityaryawork](https://www.linkedin.com/in/adityaryawork/)
 - 𝕏 **Twitter / X**: [@adityarya_ai](https://x.com/adityarya_ai)
-- 🌐 **Portfolio**: [adityarya24.github.io](https://adityarya24.github.io/)
+- 🌐 **Portfolio**: [adityarya.dev](https://adityarya.dev/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:34d399,100:09090b&section=footer" width="100%" />
