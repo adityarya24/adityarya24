@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090b,55:10b981,100:34d399&section=header&text=Aditya%20Arya&fontSize=48&fontColor=e4e4e7&fontAlignY=42&desc=AI%20Product%20and%20Agent%20Architect%20%C2%B7%20MCP%20Ecosystems%20%C2%B7%20Automation&descSize=16&descAlignY=64&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=Building+Local-First+Multi-Agent+Orchestrators;Architecting+Production+MCP+(Model+Context+Protocol)+Servers;Automating+24%2F7+Autonomous+VPS+Agent+Fleets;Full-Stack+AI+Products+from+Inception+to+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=Building+Local-First+Multi-Agent+Orchestrators;Architecting+Production+MCP+(Model+Context+Protocol)+Servers;Desktop+HUDs+%26+Developer+Tooling+(Agent+Notch);Automating+24%2F7+Autonomous+VPS+Agent+Fleets;Full-Stack+AI+Products+from+Inception+to+Scale" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -21,10 +21,11 @@
 
 ## ⚡ What I Build & Architect
 
-- 🧠 **Multi-Agent Orchestration Systems** — Local-first orchestration engines that coordinate fleets of coding LLMs (**Codex, Claude Code, Gemini CLI, Grok, Cursor, OpenCode**), manage vector memory, prevent file collisions, and perform cross-provider quota handoffs.
+- 🖥️ **Ambient Desktop HUDs & Developer Tooling** — Transparent Electron right-edge desktop HUDs for real-time token quotas, rate-limits, and session windows across Claude Code, Codex, Gemini, Grok & Cursor (**Agent Notch**).
+- 🧠 **Multi-Agent Orchestration Systems** — Local-first orchestration engines that coordinate fleets of coding LLMs (**Codex, Claude Code, Gemini CLI, Grok, Cursor, OpenCode**), manage vector memory, prevent file collisions, and perform cross-provider quota handoffs (**MindSync AI**).
 - 🔌 **Production Model Context Protocol (MCP) Servers** — Secure, scoped tool interfaces connecting AI models to live APIs, search engines, Google Workspace marketing suites, and financial market data feeds.
 - 🤖 **Autonomous 24/7 Agent Infrastructure** — Cloud VPS fleets (OpenClaw), resilient background daemons, headless browser pipelines, Telegram control planes, and system-level automation utilities.
-- 🔮 **Full-Stack D2C Consumer AI Products** — End-to-end architectures from deterministic mathematical microservices to high-converting user interfaces.
+- 🔮 **Full-Stack D2C Consumer AI Products** — End-to-end architectures from deterministic mathematical microservices to high-converting user interfaces (**AskPanditji**).
 
 ---
 
@@ -32,6 +33,7 @@
 
 | Project | Description & Tech | Live Stats |
 | :--- | :--- | :---: |
+| <a href="https://github.com/adityarya24/agent-notch"><b>agent-notch</b></a> | **Ambient Right-Edge Desktop HUD for Live Agent Quotas**<br>Windows-first ambient desktop overlay for real-time AI coding agent token quotas and session rate-limits across Claude, Codex, Gemini, Grok & Cursor. Built with Electron + React 19 + Tailwind CSS v4. | [![GitHub Stars](https://img.shields.io/github/stars/adityarya24/agent-notch?style=flat-square&color=10b981&label=%E2%98%85)](https://github.com/adityarya24/agent-notch) [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square&labelColor=09090b)](https://github.com/adityarya24/agent-notch/blob/main/LICENSE) |
 | <a href="https://github.com/adityarya24/mindsync-ai"><b>mindsync-ai</b></a> | **Local-First Multi-Agent MCP Orchestrator**<br>Routes tasks by capability, maintains persistent vector memory (`sqlite-vec`), enforces file locks, and handles pre-emptive quota rotation across LLM providers. | [![PyPI](https://img.shields.io/pypi/v/mindsync-ai?style=flat-square&color=10b981&label=PyPI)](https://pypi.org/project/mindsync-ai/) [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square&labelColor=09090b)](https://github.com/adityarya24/mindsync-ai/blob/master/LICENSE) |
 | <a href="https://github.com/adityarya24/astro-skill"><b>astro-skill</b></a> | **Deterministic Vedic Astrology Engine & MCP Server**<br>High-precision astronomical engine generating Kundali, Dasha timelines, Panchang, and 35+ page PDF reports without external APIs. Powers **[askpanditji.co.in](https://askpanditji.co.in)**. | [![GitHub Stars](https://img.shields.io/github/stars/adityarya24/astro-skill?style=flat-square&color=10b981&label=%E2%98%85)](https://github.com/adityarya24/astro-skill) [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square&labelColor=09090b)](https://github.com/adityarya24/astro-skill/blob/master/LICENSE) |
 | <a href="https://github.com/adityarya24/file-organizer"><b>file-organizer</b></a> | **Smart Zero-Dependency File Organizer & Daemon**<br>Background watcher for Downloads & Desktop with active download protection, collision-safe renaming, transaction rollback (`--undo`), and Windows Startup integration. | [![GitHub Stars](https://img.shields.io/github/stars/adityarya24/file-organizer?style=flat-square&color=10b981&label=%E2%98%85)](https://github.com/adityarya24/file-organizer) [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&labelColor=09090b)](https://github.com/adityarya24/file-organizer) |
@@ -50,12 +52,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,fastapi,postgres,sqlite,linux,docker,bash,powershell,git,githubactions,vercel,md&perline=14" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,tailwind,electron,fastapi,postgres,sqlite,linux,docker,bash,powershell,git&perline=14" alt="Tech Stack" />
   </a>
 </p>
 
 ```
-Core Languages    │ Python, TypeScript, Modern JavaScript, SQL, Bash, PowerShell
+Core Languages    │ Python, TypeScript, Modern JavaScript, React 19, SQL, Bash, PowerShell
+Desktop & Tools   │ Electron, Tailwind CSS v4, Agent Notch HUD, File Organizer Daemons
 Agent & LLM Stack │ Model Context Protocol (MCP), sqlite-vec, Multi-Agent Routing, OpenClaw
 Backend & Infra   │ FastAPI, Node.js, PostgreSQL, SQLite, Docker, Linux / Systemd, Nginx
 DevOps & Cloud    │ Git, GitHub Actions CI/CD, Vercel, VPS Automation, Telegram Bots
