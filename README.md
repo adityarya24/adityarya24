@@ -24,7 +24,7 @@
 - 🖥️ **Ambient Desktop HUDs & Developer Tooling** — Transparent Electron right-edge desktop HUDs for real-time token quotas, rate-limits, and session windows across Claude Code, Codex, Gemini, Grok & Cursor (**Agent Notch**).
 - 🧠 **Multi-Agent Orchestration Systems** — Local-first orchestration engines that coordinate fleets of coding LLMs (**Codex, Claude Code, Gemini CLI, Grok, Cursor, OpenCode**), manage vector memory, prevent file collisions, and perform cross-provider quota handoffs (**MindSync AI**).
 - 🔌 **Production Model Context Protocol (MCP) Servers** — Secure, scoped tool interfaces connecting AI models to live APIs, search engines, Google Workspace marketing suites, and financial market data feeds.
-- 🤖 **Autonomous 24/7 Agent Infrastructure** — Cloud VPS fleets (OpenClaw), resilient background daemons, headless browser pipelines, Telegram control planes, and system-level automation utilities.
+- 🤖 **Autonomous 24/7 Agent Infrastructure** — Cloud VPS agent fleets (Hermes + Claude Code), resilient background daemons, headless browser pipelines, Telegram control planes, and system-level automation utilities.
 - 🔮 **Full-Stack D2C Consumer AI Products** — End-to-end architectures from deterministic mathematical microservices to high-converting user interfaces (**VedPatrika**).
 
 ---
@@ -59,7 +59,7 @@
 ```
 Core Languages    │ Python, TypeScript, Modern JavaScript, React 19, SQL, Bash, PowerShell
 Desktop & Tools   │ Electron, Tailwind CSS v4, Agent Notch HUD, File Organizer Daemons
-Agent & LLM Stack │ Model Context Protocol (MCP), sqlite-vec, Multi-Agent Routing, OpenClaw
+Agent & LLM Stack │ Model Context Protocol (MCP), sqlite-vec, Multi-Agent Routing, Hermes, Claude Code
 Backend & Infra   │ FastAPI, Node.js, PostgreSQL, SQLite, Docker, Linux / Systemd, Nginx
 DevOps & Cloud    │ Git, GitHub Actions CI/CD, Vercel, VPS Automation, Telegram Bots
 ```
