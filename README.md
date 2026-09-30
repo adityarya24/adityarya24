@@ -16,4 +16,16 @@ I ran a café, then traded the markets. These days I run AI coding agents all da
 - [trading-mcp-server](https://github.com/adityarya24/trading-mcp-server): Indian market data, morning briefs and a trade journal for an AI analyst
 - [file-organizer](https://github.com/adityarya24/file-organizer): keeps Downloads and Desktop tidy in the background, with undo
 
+**Shipping log**
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=adityarya24&hide_border=true&background=00000000&ring=f5a524&fire=f5a524&currStreakNum=a9a59b&sideNums=a9a59b&currStreakLabel=f5a524&sideLabels=8b949e&dates=8b949e" alt="GitHub contribution streak" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityarya24/adityarya24/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityarya24/adityarya24/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/adityarya24/adityarya24/output/github-contribution-grid-snake.svg" />
+</picture>
+
 **Say hi**: [adityarya.dev](https://adityarya.dev) · [@adityarya_ai](https://x.com/adityarya_ai) · [LinkedIn](https://www.linkedin.com/in/adityaryawork/) · [book a call](https://cal.com/adityarya24/project-discussion)
