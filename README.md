@@ -6,8 +6,8 @@ I ran a café, then traded the markets. These days I run AI coding agents all da
 
 <img align="right" width="230" src="https://adityarya.dev/assets/agent-notch-demo.webp" alt="Agent Notch showing quota rings and a hover card on a Windows desktop" />
 
-- **[Agent Notch](https://adityarya.dev/agent-notch/)**: a slim notch on the edge of your screen showing live quota for Claude Code, Codex, Gemini, Cursor, Grok and OpenCode, so you see the limit coming. Windows, macOS in progress.
-- **[MindSync](https://github.com/adityarya24/mindsync-ai)**: lets your coding agents share memory and hand work to each other when one runs out of quota. Runs locally on the subscriptions you already pay for. The open core is MIT; a Platform for coordinating many agents is in progress.
+- **[Agent Notch](https://yuvaanlabs.com/agent-notch/)**: live quota for Claude Code, Codex, Gemini, Cursor, Grok and OpenCode in a slim notch or on your taskbar, so you see the limit coming. Free and [open source](https://github.com/adityarya24/agent-notch); Pro adds click-to-terminal. Windows today, macOS planned.
+- **[Hivelane](https://yuvaanlabs.com/hivelane/)**: routes tasks to Claude Code, Codex or Cursor, hands the work on when an agent hits its limit and keeps one shared memory. 7-day trial, no card. It grew out of [MindSync](https://github.com/adityarya24/mindsync-ai), now archived.
 - **[VedPatrika](https://vedpatrika.in)**: a Hindi-first Vedic astrology product. The math runs on my own open-source engine, [astro-skill](https://github.com/adityarya24/astro-skill).
 
 **Other things I've built**
